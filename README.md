@@ -5,4 +5,5 @@ I start by solving the corners. Then I make the triangles adjacent to the corner
 - ao5: _31.84_
 - ao12: _36.14_
 - ao25: -
+
 Timed [there](https://cstimer.net/)
